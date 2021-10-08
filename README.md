@@ -2,7 +2,7 @@
 
 
 
-![Developer](https://github.com/AsjadOwO/AsjadOwO/blob/main/jcole-new-york1.gif)
+![Developer](https://github.com/AsjadOwO/AsjadOooO/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 ### My Main got flagged on :C
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 ##
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadowo&label=Profile%20views&color=0e75b6&style=flat" alt="asjadowo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asjadoooo&label=Profile%20views&color=0e75b6&style=flat" alt="asjadoooo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjadowo" alt="asjadowo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asjadoooo" alt="asjadoooo" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
