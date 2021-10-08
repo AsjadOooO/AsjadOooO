@@ -2,7 +2,7 @@
 
 
 
-![Developer](https://github.com/AsjadOwO/AsjadOooO/blob/main/jcole-new-york1.gif)
+![Developer](https://github.com/AsjadOooO/AsjadOooO/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 ### My Main got flagged on :C
 
