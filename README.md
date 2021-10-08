@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsjadOooO&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsjadOooO&show_icons=true&theme=gruvbox" />
 
 </p>
 
