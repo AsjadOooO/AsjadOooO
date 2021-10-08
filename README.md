@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/AsjadOooO/github-readme-stats" />
+ <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=AsjadOooO&layout=compact&theme=tokyonight" />
 
 
 
