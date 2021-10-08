@@ -4,7 +4,6 @@
 
 ![Developer](https://github.com/AsjadOooO/AsjadOooO/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
-### My Main got flagged on :C
 
 
 Hai, im Asjad, on my free time i write some codes, atm in high school 
