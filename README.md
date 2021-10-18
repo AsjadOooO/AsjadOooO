@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 🌤️WeatherWebApp Project (Still working on it) https://www.asjadowo.xyz/webweatherapp/ 
 - ☀️WeatherWebApp Project (Mobile web weather app) https://www.asjadowo.xyz/webweathermobile/
 - 🔣Scientific calculator This is an Simple  scientific calculator go check it out :DD (still working on it) https://www.asjadowo.xyz/scientific%20calculator/
-- 🖥️Rainbow Recorder This is an simple screen recorder made using pythong (Rainbow Recorder) https://github.com/AsjadOwO/RainbowRecorder/releases/tag/RainbowRecorder
-- 🌧️ Zero-Attack Best hacking tools (Zero-Attack)  https://github.com/AsjadOwO/Zero-attacker
+- 🖥️Rainbow Recorder This is an simple screen recorder made using pythong (Rainbow Recorder) https://github.com/AsjadOooO/RainbowRecorder/releases/tag/RainbowRecorder
+- 🌧️ Zero-Attack Best hacking tools (Zero-Attack)  https://github.com/AsjadOooO/Zero-attacker
 -->
 ##
 
