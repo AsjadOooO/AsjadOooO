@@ -10,7 +10,6 @@ Hai, im Asjad, on my free time i write some codes and learn it, atm doing A/As-l
 I really enjoy learning different languages and making different projects
 thats all about me :D
 Here are some ideas to get you started:
-- 🌍 Started a Pog Hosting (which is free)  https://www.rainbowstudiohosting.tk/
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with c++(hadest language for me)
