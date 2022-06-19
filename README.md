@@ -18,8 +18,10 @@ IF you wanna know about me:
 - ⚡ Fun fact: I think im really good at csgo 
 - 🎴 I also like to game on my free time. if anyone wanna play some games hit me up on discord
 - 🚧 Love to study literature such as poetry, syllable writing , etc
+- 🎵 Really big Hip hop nerd
 
 
+-->
 ##
 
 
@@ -59,7 +61,7 @@ IF you wanna know about me:
 
 
 ##
-ty for visiting to my profile any concern dm me on on discord or twitter. !❤️Hava a nice day
+ty for coming to my profile any concern dm me on on discord or twitter. !❤️Hava a nice day
   
 
 
