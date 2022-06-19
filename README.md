@@ -14,7 +14,7 @@ IF you wanna know about me:
 - 🌱 Main programming language is Python
 - 💬 Ask me about anything related html,css,Javascript,sql,python
 - 📫 How to reach me: https://twitter.com/AsjadFn
-- 📣 Currently Working on http://zerooffenssecuity.cloud/
+- 📣 Currently Working on http://zerooffenssecurity.cloud/
 - ⚡ Fun fact: I think im really good at csgo 
 - 🎴 I also like to game on my free time. if anyone wanna play some games hit me up on discord
 - 🚧 Love to study literature such as poetry, syllable writing , etc
