@@ -19,7 +19,7 @@ IF you wanna know about me:
 - 🎴 I also like to game on my free time. if anyone wanna play some games hit me up on discord
 - 🚧 Love to study literature such as poetry, syllable writing , etc
 
--->
+
 ##
 
 
