@@ -6,27 +6,19 @@
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
-Hai, im Asjad, on my free time i write some codes and learn it, atm doing A/As-levels
-I really enjoy learning different languages and making different projects
-thats all about me :D
-Here are some ideas to get you started:
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with c++(hadest language for me)
+Hey, im Asjad, on my free time i write some codes and learn it, atm doing A-levels
+I am an self-taught developer. Currently learning more about programming.
+
+IF you wanna know about me:
+- 🔭 I’m Currently just busy with Job, College and gym nothing else 
+- 🌱 Main programming language is Python
 - 💬 Ask me about anything related html,css,Javascript,sql,python
 - 📫 How to reach me: https://twitter.com/AsjadFn
-- 🚀 This is one of my project im working on https://www.zenitsu.xyz/
-- ⚡ Fun fact: I think im really good at csgo xD
-- 🎴If anyone wanna play Forest,Warzone,MC add me on discord Asjad#0060 🌹
-- 🤸In my free time, i watch anime or listen to song. Fav anime Demon slayerUwU
-- 📣Some of my Npm Packages https://www.npmjs.com/~asjadowo
-- 🎮Game Website project https://www.zenitsu.xyz/zenitsu%20games
-- 🚧Discord Webhook Project https://www.zenitsu.xyz/webhook
-- 🌤️WeatherWebApp Project (Still working on it) https://www.asjadowo.xyz/webweatherapp/ 
-- ☀️WeatherWebApp Project (Mobile web weather app) https://www.asjadowo.xyz/webweathermobile/
-- 🔣Scientific calculator This is an Simple  scientific calculator go check it out :DD (still working on it) https://www.asjadowo.xyz/scientific%20calculator/
-- 🖥️Rainbow Recorder This is an simple screen recorder made using pythong (Rainbow Recorder) https://github.com/AsjadOooO/RainbowRecorder/releases/tag/RainbowRecorder
-- 🌧️ Zero-Attack Best hacking tools (Zero-Attack)  https://github.com/AsjadOooO/Zero-attacker
+- 📣 Currently Working on http://zerooffenssecuity.cloud/
+- ⚡ Fun fact: I think im really good at csgo 
+- 🎴 I also like to game on my free time. if anyone wanna play some games hit me up on discord
+- 🚧 Love to study literature such as poetry, syllable writing , etc
+
 -->
 ##
 
@@ -38,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@asjadfn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@asjadfn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/fnasjad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/fnasjad/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/asjadfn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/asjadfn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,7 +59,7 @@ Here are some ideas to get you started:
 
 
 ##
-ty for coming to my profile any concern dm me on on discord or twitter. !❤️Hava a nice day
+ty for visiting to my profile any concern dm me on on discord or twitter. !❤️Hava a nice day
   
 
 
