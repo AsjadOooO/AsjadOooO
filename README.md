@@ -1,8 +1,5 @@
-### Hi there 👋, I'm Asjad
+### Yo there 👋, I'm Asjad
 
-
-
-![Developer](https://github.com/AsjadOooO/AsjadOooO/blob/main/jcole-new-york1.gif)
 ![DISCORD](https://discord.c99.nl/widget/theme-3/439728998809862154.png)
 
 
@@ -14,11 +11,8 @@ IF you wanna know about me:
 - 🌱 Main programming language is Python
 - 💬 Ask me about anything related html,css,Javascript,sql,python
 - 📫 How to reach me: https://twitter.com/AsjadFn
-- 📣 Currently Working on https://zerooffenssecurity.cloud/
-- ⚡ Fun fact: I think im really good at csgo 
-- 🎴 I also like to game on my free time. if anyone wanna play some games hit me up on discord
-- 🚧 Love to study literature such as poetry, syllable writing , etc
-- 🎵 Really big Hip hop nerd
+- 📣 Currently Working on https://github.com/AsjadOooO/Zero-attacker
+- ⚡ Fun fact: I love bodybuilding,kickboxing
 
 
 -->
@@ -32,7 +26,6 @@ IF you wanna know about me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@asjadfn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@asjadfn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/asjadfn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/asjadfn/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,7 +54,7 @@ IF you wanna know about me:
 
 
 ##
-ty for coming to my profile any concern dm me on on discord or twitter. !❤️Hava a nice day
+Thanks for coming to my profile, for any concern Dm me privately on discord or twitter.
   
 
 
